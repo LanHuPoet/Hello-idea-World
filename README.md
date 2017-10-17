@@ -1,2 +1,2 @@
 # Hello-idea-World
-just a try
+just a try hahaha mygitHub
